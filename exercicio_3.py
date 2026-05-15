@@ -34,3 +34,4 @@ for numero in lista:
         impares.append(numero)
 
 print(f"Os números ímpares são {impares}")
+
